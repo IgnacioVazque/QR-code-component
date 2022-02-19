@@ -20,7 +20,7 @@ Component to present a QR code on a card, with a little description.
 
 ### Screenshot
 
-![screenshot](https://github.com/IgnacioVazque/QR-code-component/blob/main/images/screenshot.png)
+![screenshot](https://github.com/IgnacioVazque/QR-code-component/blob/main/images/screenshot1.png)
 
 ### Links
 
