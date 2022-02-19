@@ -22,8 +22,6 @@ Component to present a QR code on a card, with a little description.
 
 ![screenshot](https://github.com/IgnacioVazque/QR-code-component/blob/main/images/screenshot.png)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -53,9 +51,6 @@ Rem unit: Unidades de relacion relativa a algo más, puede ser a un contendor, e
 Es decir que el tamaño del texto u otros elementos escalan en relación a todo lo demas en la página.
 
 Also rem units 1 rem = 16px(base)
-
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 ## Author
